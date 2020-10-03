@@ -17,4 +17,6 @@ go install google.golang.org/protobuf/cmd/protoc-gen-go
 
 go run greet/greet_server/server.go
 go run greet/greet_client/client.go
+
+go mod init andres 
 ```
